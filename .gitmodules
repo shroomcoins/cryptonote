@@ -1,0 +1,3 @@
+[submodule "shroom"]
+	path = shroom
+	url = https://github.com/shroomcoins/shroom.git
